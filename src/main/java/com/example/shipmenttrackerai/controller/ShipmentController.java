@@ -7,6 +7,9 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+/*
+This is the REST controller for Shipment object.
+ */
 @RestController
 @RequestMapping("api/shipments")
 public class ShipmentController {
